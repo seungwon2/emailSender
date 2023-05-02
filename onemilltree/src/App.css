@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   background-color: #282c34;
+  color: #ffffff !important;
 }
 /* 
 .App-logo {
@@ -36,4 +37,8 @@
   to {
     transform: rotate(360deg);
   } */
+p.ant-upload-text {
+  margin: 0 0 4px;
+  color: rgba(255, 255, 255, 0.88) !important;
+  font-size: 16px;
 }
