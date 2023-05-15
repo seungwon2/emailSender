@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://i.postimg.cc/6qvvh2kY/Ben.png",
+      "name": "벤",
+      "price": 105900,
+      "stock": true
+    },
+    {
+      "id": 2,
+      "image": "https://i.postimg.cc/yNLrZxCD/Dalman.png",
+      "name": "달만이",
+      "price": 500,
+      "stock": true
+    },
+    {
+      "id": 3,
+      "image": "https://i.postimg.cc/4NFdBbvP/No1.png",
+      "name": "1호",
+      "price": 389000,
+      "stock": false
+    }
+  ]
+}
